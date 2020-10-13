@@ -1,4 +1,4 @@
-django>=1.11.18,<=1.9.99
+django>=1.11.29,<=1.9.99
 django-reversion==1.10.2
 dj-database-url
 pycrypto
